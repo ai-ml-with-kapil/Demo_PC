@@ -1,0 +1,4 @@
+name = "MyApp"
+uuid = "a967d3e5-08a3-46cf-830a-8c1d1a980fe4"
+authors = ["Kapil Panwar <kapil.panwar@apolloenergyanalytics.com>"]
+version = "0.1.0"
